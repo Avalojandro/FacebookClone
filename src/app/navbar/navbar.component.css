@@ -1,0 +1,27 @@
+.nav {
+  background-color: #2f63d3 !important;
+  color: white !important;
+  height: 65px !important;
+  font-weight: bold;
+}
+
+.display {
+  display: inline !important;
+}
+
+.foto {
+  border-radius: 25px;
+  display: inline !important;
+}
+
+.padding {
+  padding-top: 15px !important;
+}
+
+.pad {
+  padding-top: 20px !important;
+}
+
+.buscar {
+  width: 350px;
+}
